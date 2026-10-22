@@ -65286,7 +65286,7 @@ r($,"auL","aK",()=>$.aeT())
 r($,"auj","a60",()=>{A.ami()
 return B.wf})
 r($,"ar_","aeV",()=>{var q=4280171103,p=4281227652,o=t.Y,n=t.N,m=t.z
-return A.d([A.ax(["text","Ich mag, dass du mir geh\xf6rst und trotzdem ganz du bleibst.","icon","\ufffd","gradient",A.d([A.aj(q),A.aj(p)],o)],n,m),A.ax(["text","Ich mag dein wundersch\xf6nes Gesicht, deine s\xfc\xdfe Stimme und dein Wesen.","icon","\u2728","gradient",A.d([A.aj(4279183431),A.aj(q)],o)],n,m),A.ax(["text","Ich mag, dass du klar sagst, was du brauchst und was nicht.","icon","\ud83d\udcac","gradient",A.d([A.aj(p),A.aj(4283071399)],o)],n,m),A.ax(["text","Ich mag dich, weil du du bist.","icon","\ud83c\udf1f","gradient",A.d([A.aj(q),A.aj(4282215321)],o)],n,m)],t.cs)})
+return A.d([A.ax(["text","Ich mag, dass du mir geh\xf6rst und trotzdem ganz du bleibst.","icon","\ud83e\udd17","gradient",A.d([A.aj(q),A.aj(p)],o)],n,m),A.ax(["text","Ich mag dein wundersch\xf6nes Gesicht, deine s\xfc\xdfe Stimme und dein Wesen.","icon","\u2728","gradient",A.d([A.aj(4279183431),A.aj(q)],o)],n,m),A.ax(["text","Ich mag, dass du klar sagst, was du brauchst und was nicht.","icon","\ud83d\udcac","gradient",A.d([A.aj(p),A.aj(4283071399)],o)],n,m),A.ax(["text","Ich mag dich, weil du du bist.","icon","\ud83c\udf1f","gradient",A.d([A.aj(q),A.aj(4282215321)],o)],n,m)],t.cs)})
 s($,"aud","agM",()=>A.cZ(B.e9,B.j,t.o))
 s($,"au6","agH",()=>A.cZ(B.j,B.DJ,t.o))
 r($,"atf","ag5",()=>A.aio(B.LW,B.LV))
